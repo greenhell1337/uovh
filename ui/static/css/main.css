@@ -1,0 +1,61 @@
+.btnMain {
+    width: 125px;
+    border: 2px solid orange;
+    margin-left: 12px;
+    position: absolute;
+    background-color: white;
+    color: orange;
+    text-align: center;
+    text-decoration: none;
+}
+
+#btnLinkMain{
+    top: 25%;
+}
+
+#btnLinkRec{
+    top: 30%;
+}
+
+#btnLinkTopVideo{
+    top: 35%;
+}
+
+#btnLinkTopChanel{
+    top: 40%;
+}
+
+#main-menu{
+    position: absolute;
+    width: 150px;
+    height: 685px;
+    top: 2%;
+    border: 5px solid orange;
+}
+
+body{
+    background-color: white;
+}
+
+.WebApp{
+    color: orange;
+    text-align: center;
+
+}
+
+footer{
+    position: absolute;
+    right: 42%;
+    top: 125%;
+    color: orange;
+
+}
+
+.user{
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    border: 1px solid white;
+    background-color: white;
+
+}

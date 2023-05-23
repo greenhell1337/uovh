@@ -1,0 +1,73 @@
+.page{
+    position: absolute;
+    top: 92%;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    -moz-text-shadow: 10px 0px 14px #12c2c4;
+    -webkit-text-shadow: 10px 0px 14px #12c2c4;
+    text-shadow: 10px 0px 14px #12c2c4;
+}
+
+#page1{
+    right: 51%;
+}
+
+#page2{
+    right: 50%;
+}
+
+#page3{
+    right: 49%;
+}
+
+.video{
+    position: absolute;
+}
+
+.photo{
+    width: 300px;
+    height: 160px;
+}
+
+#video3{
+    left: 61%;
+}
+
+#video2{
+    left: 40%;
+}
+
+#video1{
+    left: 19%;
+}
+
+#video4{
+    left: 19%;
+    top: 41%;
+}
+
+#video5{
+    left: 40%;
+    top: 41%;
+}
+
+#video6{
+    left: 61%;
+    top: 41%;
+}
+
+#video7{
+    left: 19%;
+    top: 65.5%;
+}
+
+#video8{
+    left: 40%;
+    top: 65.5%;
+}
+
+#video9{
+    left: 61%;
+    top: 65.5%;
+}
